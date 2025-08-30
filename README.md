@@ -1,7 +1,7 @@
 # Vibe-Navigation
 
 ## Schematic
-![Vibe-Navigation Schematic.png](./assets/imgs/Vibe-Nevigation.png)
+![Vibe-Navigation Schematic.png](asstes/imgs/Vibe-Nevigation.png)
 
 ## Flowchart
 ```graph TD
